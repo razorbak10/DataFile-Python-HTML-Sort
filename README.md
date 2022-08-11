@@ -4,9 +4,9 @@
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 
-## Python_Sort_File
+## Python_Sort_File 
 FR
-Se programme et fait pour être modifié et utilise facilement pour un remplissage de tableau il prend tout type de fichier à vous de changé dans le code  fichier txt Cfg...etc. Il peut récupérer un répertoire rempli de fichier et crée un HTML avec un tableau
+Se programme et fait pour être modifié et utilise facilement pour un remplissage de tableau il prend tout type de fichier à vous de changé dans le code  fichier txt Cfg...etc. Il peut récupérer un répertoire rempli de fichier et crée un HTML avec un tableau \n
 EN
 The program and made to be modified and uses easily for an array filling it takes any type of file to you changed in the file code txt Cfg...etc. It can retrieve a directory filled with file and creates an HTML with an array
 ## technologies
