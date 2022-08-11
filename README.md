@@ -13,7 +13,7 @@ The program and made to be modified and uses easily for an array filling it take
 ***
 A list of technologies used within the project:
 * [python](https://www.python.org/downloads/source/): Version 3
-* [Library name](https://datatables.net/manual/): Version v1.12.1
+* [Datatables](https://datatables.net/manual/): Version v1.12.1
 ## Installation
 ***
 FR
