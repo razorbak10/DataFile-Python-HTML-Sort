@@ -22,9 +22,9 @@ A list of technologies used within the project:
 * [Datatables](https://datatables.net/manual/): Version v1.12.1
 ## Installation
 ***
-FR
+FR:
 Une petite introduction sur l’installation.  
-  EN
+  EN:
 A little intro about the installation. 
 ```
 Requiment --Python3
