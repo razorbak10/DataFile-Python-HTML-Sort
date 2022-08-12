@@ -28,7 +28,7 @@ A little intro about the installation.
 Requiment --Python3
 $ git clone  git@github.com:razorbak10/Python_Sort_File.git
 $ cd ../path/Python_sort_file
-$ python3 Python_Sort_File.py [path/all_file.txt_or_file.cfg] and [/exit/path/hmtl]
+$ python3 Python_Sort_File.py [path/all_file.txt_or_file.cfg] and [/path/hmtl_out]
 open table.html from a browser
 ```
 
