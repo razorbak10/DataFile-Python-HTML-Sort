@@ -5,8 +5,7 @@
 4. [Collaboration](#collaboration)
 
 ## Python_Sort_File 
-FR
-Ce programme est fait pour être modifié et utilisé facilement pour un remplissage de tableau il prend tout type de fichier type txt, a vous de changé dans le code (fichier txt Cfg...etc).  
+Ce programme est fait pour être modifié et utilisé facilement pour un remplissage de tableau, il prend tout type de fichier type txt, à vous de changer dans le code (fichier txt Cfg...etc).  
 
 ### Screenshot
 ![Table screen](https://github.com/razorbak10/Python_Sort_File/blob/main/screen/image.PNG)
@@ -22,7 +21,7 @@ A list of technologies used within the project:
 FR:
 Une petite introduction sur l’installation.  
   EN:
-A little intro about the installation. 
+A little intro. 
 ```
 Requiment --Python3
 $ git clone  git@github.com:razorbak10/Python_Sort_File.git
