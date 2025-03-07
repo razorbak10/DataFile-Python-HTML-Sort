@@ -19,11 +19,6 @@ Ce programme est conçu pour être facilement modifié et utilisé pour le rempl
 - [Datatables](https://datatables.net/manual/): Version v1.12.1  
 
 ## Installation  
-### EN:  
-A brief introduction to the installation process.  
-
-### FR:  
-Une brève introduction sur l’installation.  
 
 ### Requirements | Prérequis  
 - Python 3  
